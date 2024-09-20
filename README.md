@@ -56,6 +56,10 @@ Generating Newsletters: Click the "Generate Newsletter from News" button to crea
 Chat with Stackie: Ask Stackie questions related to Stackup after providing your name. Stackie will respond based on the knowledge base.
 ![Screenshot (380)](https://github.com/user-attachments/assets/868d16d8-ad8a-4750-b4e4-0f8dd2c977d4)
 
+## sample knowledgebase for the webapp bot.
+
+![Screenshot (382)](https://github.com/user-attachments/assets/fa41e4e2-fdbe-4022-9d88-ecfaea519bac)
+
 
 ## Contributing
 
